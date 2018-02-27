@@ -1,1 +1,3 @@
 stmpy
+IPython
+ipywidgets
